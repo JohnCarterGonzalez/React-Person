@@ -7,25 +7,25 @@ function App() {
         <Person 
             lastName={"Doe"}    
             firstName={"Jane"}
-            age={"45"}
+            age={45}
             hairColor={"Black"}
                 />
         <Person 
             lastName={"Smith"}    
             firstName={"John"}
-            age={"88"}
+            age={88}
             hairColor={"Brown"}
                 />
         <Person 
             lastName={"Jane"}    
             firstName={"Mary"}
-            age={"23"}
+            age={23}
             hairColor={"Red"}
                 />
         <Person 
             lastName={"Parker"}    
             firstName={"Peter"}
-            age={"24"}
+            age={24}
             hairColor={"Brown"}
                 />
 
